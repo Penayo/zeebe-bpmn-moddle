@@ -27,6 +27,10 @@
     {
       "name": "bpmn.io contributors",
       "url": "https://github.com/bpmn-io"
+    },
+    {
+      "name": "Gustavo Penayo",
+      "url": "https://github.com/Penayo"
     }
   ],
   "license": "MIT",

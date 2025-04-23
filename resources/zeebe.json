@@ -277,7 +277,8 @@
       ],
       "meta": {
         "allowedIn": [
-          "bpmn:UserTask"
+          "bpmn:UserTask",
+          "bpmn:StartEvent"
         ]
       },
       "properties": [
